@@ -1,0 +1,14 @@
+# ===== MATLAB temp & autosave =====
+*.asv
+*.m~
+*.tmp
+*.bak
+
+# ===== OS junk =====
+.DS_Store
+Thumbs.db
+
+# ===== MATLAB local project files =====
+*.prj
+*.sln
+*.mex*
